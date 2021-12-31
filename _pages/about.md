@@ -13,6 +13,6 @@ I am a first-year PhD student at the Institute of Physical Science and Technolog
 Recent updates
 ======
 1. Manuscript 'Inferring long memory in extreme events' accepted in Chaos journal (Nov. 2021)
-2. Joined IPST, UMD for PhD.
-3. Manuscript 'Initializing ReLU networks in an expressive subspace' is under review.
+2. Joined IPST, UMD for PhD (Aug. 2021)
+3. Manuscript 'Initializing ReLU networks in an expressive subspace' is under review (Jul. 2021)
 4. Manuscript 'Automated detection of Solar bursts using a statistical method' accepted in Solar Physics journal (Aug. 2019)
