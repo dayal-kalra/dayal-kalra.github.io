@@ -10,6 +10,6 @@ citation: 'Dayal Singh, Sasikumar Kumar Raja, PrasadSubramanian et al. Automated
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[arXiv](https://arxiv.org/abs/1906.11780)
 
-Recommended citation: Dayal Singh, Sasikumar Kumar Raja, PrasadSubramanian et al. (2019). "Automated Detection of Solar Radio Bursts Using a Statistical Method" <i>Sol Phys 294</i>. 112(2019).
+Recommended citation: Dayal Singh, Sasikumar Kumar Raja, PrasadSubramanian et al. (2019). "Automated Detection of Solar Radio Bursts Using a Statistical Method" <i>Sol Phys 294</i>. 112 (2019).
