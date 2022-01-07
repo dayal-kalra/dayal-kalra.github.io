@@ -9,9 +9,8 @@ redirect_from:
 ---
 
 I am a first-year PhD student at the Institute of Physical Science and Technology (IPST), University of Maryland, College Park. My current research interest include Statistical Mechanics, Condensed Matter Theory and Machine Learning. In particular, I am interested in problems at the intersection of physics and machine learning. The details of the ongoing and past projects can be found in the research and publications tab. 
-[//]: #[Sample link](https://arxiv.org/pdf/2103.12499.pdf).
 
-Recent updates
+Recent news:
 ======
 1. Manuscript 'Inferring long memory in extreme events' accepted in Chaos journal (Nov. 2021)
 2. Joined IPST, UMD for PhD (Aug. 2021)
