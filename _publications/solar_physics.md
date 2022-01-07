@@ -2,7 +2,7 @@
 title: "Automated Detection of Solar Radio Bursts Using a Statistical Method"
 collection: publications
 permalink: /publication/solar_bursts
-excerpt: 'We deveolped a method to automatically detect solar radio bursts from the dynamical spectrographs, and analyze the origin of the detected solar radio bursts.'
+excerpt: 'We deveolped a method to automatically detect solar radio bursts from the dynamical spectrographs, and analyzed the origin of the detected solar radio bursts.'
 date: 2019-08-26
 venue: 'Solar Physics volume 294, Article number: 112 (2019)'
 paperurl: 'https://doi.org/10.1007/s11207-019-1500-0'
