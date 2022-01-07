@@ -1,15 +1,14 @@
 ---
 title: "Predicting multi-scale systems using reservoir computing"
-collection: research
+collection: teaching
 type: "Semester project, Fall 2021"
 permalink: /research/Fall_2021
 venue: "University of Maryland, Department"
-date: 2021-10-01
+date: 2021-09-01
 location: "College Park, MD"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
+Complex systems invariably contain components with different time scales.
 Heading 1
 ======
 
