@@ -2,7 +2,7 @@
 title: "Predicting multi-scale systems using reservoir computing"
 collection: teaching
 type: "Semester project, Fall 2021"
-permalink: /teaching/Fall_2021
+permalink: /research/Fall_2021
 venue: "University of Maryland, Department"
 date: 2014-01-01
 location: "College Park, MD"
