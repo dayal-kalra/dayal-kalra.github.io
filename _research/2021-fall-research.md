@@ -3,7 +3,7 @@ title: "Predicting multi-scale systems using reservoir computing"
 collection: research
 type: "Semester project, Fall 2021"
 permalink: /research/Fall_2021
-venue: "University of Maryland, Department"
+venue: "University of Maryland, Department of Physics"
 date: 2021-10-01
 location: "College Park, MD"
 ---
