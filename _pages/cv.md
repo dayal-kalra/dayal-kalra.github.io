@@ -57,7 +57,7 @@ Conferences attended
 
 Skills
 ======
-* Deep learning
+* Machine learning
   * Feed-forward networks
   * Convolutional neural networks
   * Recurrent neural networks
