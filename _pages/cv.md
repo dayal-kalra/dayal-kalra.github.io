@@ -43,6 +43,7 @@ Research experience
 * Summer project: IISER Pune, Summer 2018
   * Supervisor: Professor Prasad Subrmanian
   * Automated detection of solar radio bursts
+  * Detection of HI emission from Sagittarius A galaxy
 
 * Long-term project project: IISER Pune, Fall 2016 - Present
   * Supervisor: Dr. MS Madhusudhan
