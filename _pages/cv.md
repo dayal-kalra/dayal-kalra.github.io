@@ -51,7 +51,7 @@ Research experience
   * Functional prediction of uncharacterized protein sequences
   
 Conferences attended
-=====
+======
 * Quantum-inspired machine learning: ITS CUNY, Oct. 2020
 * Statistical physics of machine learning: ICTS, Bangalore, Jan. 2020 
 
