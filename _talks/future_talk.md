@@ -1,5 +1,5 @@
 ---
-title: "The mean-field limit of deep neural networks?"
+title: "The mean-field theory of deep neural networks?"
 collection: talks
 type: "Future talk"
 permalink: /talks/future_talk

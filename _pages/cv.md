@@ -14,7 +14,7 @@ Education
 * Ph.D student at IPST, University of Maryland, College Park, 2021-present
 * BS-MS with Physics major, Indian Institute of Science Education & Research, Pune, 2016-2021
 
-Work experience
+Research experience
 ======
 * Summer project: Summer 2022
   * Your group?
