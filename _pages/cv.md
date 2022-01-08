@@ -49,10 +49,6 @@ Work experience
   * Large scale motif prediction in protein sequences
   * Functional prediction of uncharacterized protein sequences
   
-
-
-  
-  
   
 Skills
 ======
@@ -78,7 +74,7 @@ Talks
 Teaching
 ======
   <ul>
-    * Teaching Assitant for two sections for CHEM 132: General chemistry lab
+    Teaching Assitant for two sections for CHEM 132: General chemistry lab
   </ul>
   
 
