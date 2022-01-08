@@ -95,7 +95,7 @@ Talks
   
 Teaching
 ======
-* Teaching Assitant:
+* Teaching Assitant: Fall 2021
   * CHEM 132: General Chemistry lab
   * TA for two sections
   
