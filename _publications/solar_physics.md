@@ -1,7 +1,7 @@
 ---
 title: "Automated Detection of Solar Radio Bursts Using a Statistical Method"
 collection: publications
-authors: **Dayal Singh**, Sasikumar Raja, Prasad Subramanian, R. Ramesh, and Christian Monstein
+authors: Dayal Singh, Sasikumar Raja, Prasad Subramanian, R. Ramesh, and Christian Monstein
 permalink: /publication/solar_bursts
 excerpt: 'We deveolped a method to automatically detect solar radio bursts from the dynamical spectrographs, and analyzed the origin of the detected solar radio bursts.'
 date: 2019-08-26

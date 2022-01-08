@@ -1,7 +1,7 @@
 ---
 title: "Inferring long memory using extreme events"
 collection: publications
-authors: '**Dayal Singh** and M. S. Santhanam'
+authors: 'Dayal Singh Kalra and M. S. Santhanam'
 permalink: /publication/extreme_events
 excerpt: 'We study extreme events in time series with long-range correlations. We find that it is possible to infer the long memory of time series just by extreme events.'
 date: 2021-10-19

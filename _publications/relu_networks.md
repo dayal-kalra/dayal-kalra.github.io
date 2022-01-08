@@ -1,7 +1,7 @@
 ---
 title: "Initializing ReLU networks in an expressive subspace of weights"
 collection: publications
-authors: '**Dayal Singh** and G J Sreejith'
+authors: 'Dayal Singh and G J Sreejith'
 permalink: /publication/relu_networks
 excerpt: 'We analyze signal propagation in ReLU networks with anti-correlated weights, and demonstrate that it has an prder-to-chaos phase transition, unlike the uncorrelated case. Furthermore, we demonstrate that ReLU networks initialized at this criticality train faster.'
 date: 2022-01-07
