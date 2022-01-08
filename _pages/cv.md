@@ -11,20 +11,48 @@ redirect_from:
 
 Education
 ======
-* BS-MS with Physics major, Indian Institute of Science Education & Research, Pune, 2016-2021
 * Ph.D student at IPST, University of Maryland, College Park, 2021-present
+* BS-MS with Physics major, Indian Institute of Science Education & Research, Pune, 2016-2021
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer project: Summer 2022
+  * Your group?
+* Group Rotation II: UMD, Spring 2022
+  * Your group?
+* Group Rotation I: UMD, Fall 2021
+  * Supervisor: Professor Michelle Girvan
+  * Predicting the dynamics of multi-scale systems with reservoir computing
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Master's thesis project: IISER Pune, Aug. 2020-July 2021
+  * Supervisor: Dr. G J Sreejith
+  * Signal propagation and initialization in Deep Neural Networks
+
+* Semester project: IISER Pune, Spring 2020
+  * Supervisor: Dr. G J Sreejith
+  * Learning non-local order parameter of Dimer model with Convolutional Neural Networks
+
+* Semester project: IISER Pune, Fall 2019
+  * Supervisor: Professor MS Santhanam
+  * Predicting dynamics of long-range correlated time series using Recurrent Neural Networks
+
+* Long-term project: IISER Pune, Spring 2019 - Aug. 2021
+  * Supervisor: Professor MS Santhanam
+  * Analyzing correlations in extreme events of a time series with power law correlations
+
+* Summer project: IISER Pune, Summer 2018
+  * Supervisor: Professor Prasad Subrmanian
+  * Automated detection of solar radio bursts
+
+* Long-term project project: IISER Pune, Fall 2016 - Present
+  * Supervisor: Dr. MS Madhusudhan
+  * Large scale motif prediction in protein sequences
+  * Functional prediction of uncharacterized protein sequences
+  
+
+
+  
+  
   
 Skills
 ======
