@@ -77,8 +77,8 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  <ul>
+    * Teaching Assitant for two sections for CHEM 132: General chemistry lab
+  </ul>
   
 
