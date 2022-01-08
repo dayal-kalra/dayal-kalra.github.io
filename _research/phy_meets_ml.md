@@ -3,8 +3,6 @@ title: "Physics intersection Machine Learning"
 collection: research
 type: "research"
 permalink: /research/phy_meet_ml
-venue: "University of Maryland, Department of Physics"
-date: 2021-10-01
 location: "College Park, MD"
 ---
 
