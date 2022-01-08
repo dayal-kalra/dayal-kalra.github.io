@@ -49,15 +49,36 @@ Research experience
   * Large scale motif prediction in protein sequences
   * Functional prediction of uncharacterized protein sequences
   
-  
+Conferences attended
+=====
+* Quantum-inspired machine learning: ITS CUNY, Oct. 2020
+* Statistical physics of machine learning: ICTS, Bangalore, Jan. 2020 
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep learning
+  * Feed-forward networks
+  * Convolutional neural networks
+  * Recurrent neural networks
+  * Reservoir computing
+  * Tensorflow, Keras
+
+* Cluster computing
+  * PBS
+  * SLURM
+
+* Monte Carlo simulations
+
+* Programming languages
+  * Python
+  * C/C++
+  * any language after a week
+
+* Others
+  * Shell scripting: bash, zsh
+  * LaTeX
+  * Github
+  * MySQL
 
 Publications
 ======
@@ -73,8 +94,8 @@ Talks
   
 Teaching
 ======
-  <ul>
-    Teaching Assitant for two sections for CHEM 132: General chemistry lab
-  </ul>
+* Teaching Assitant:
+  * CHEM 132: General Chemistry lab
+  * TA for two sections
   
 
