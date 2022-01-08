@@ -1,6 +1,7 @@
 ---
 title: "Finding SeMo: large scale linear motif detection and protein function annotation"
 collection: publications
+authors: '**Dayal Singh**, Ankit Roy, Sanjana Nair, MS Madhusudhan'
 permalink: /publication/finding_semo
 excerpt: 'We develop a *de-novo* method for predicting Short LInear Motifs (SLiMs) in protein sequences. We use Finding SeMo to find motifs across all species, and use them to predict functions of uncharacterized protein sequences.'
 date: 2022-01-07
