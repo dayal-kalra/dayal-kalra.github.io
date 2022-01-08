@@ -1,8 +1,8 @@
 ---
-title: "Predicting multi-scale systems using reservoir computing"
+title: "Physics intersection Machine Learning"
 collection: research
-type: "Semester project, Fall 2021"
-permalink: /research/Fall_2021
+type: "research"
+permalink: /research/phy_meet_ml
 venue: "University of Maryland, Department of Physics"
 date: 2021-10-01
 location: "College Park, MD"
