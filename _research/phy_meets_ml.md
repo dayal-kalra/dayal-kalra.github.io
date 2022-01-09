@@ -5,14 +5,16 @@ type: "research"
 permalink: /research/phy_meet_ml
 ---
 
+Infinite width limit of Deep Neural Networks
+=====
 Despite their successful application in various fields of science and technology, deep neural net-
-works remain poorly understood.
+works remain poorly understood. In the past few years, a significant progress has been made in understanding by studying properties of infinitely wide networks. 
 
-Heading 1
+Information propagation through deep neural networks
 ======
 
-Heading 2
+The Neural Tangent Kernel (the lazy regime)
 ======
 
-Heading 3
+Generalization in overly parameterized deep neural networks
 ======
