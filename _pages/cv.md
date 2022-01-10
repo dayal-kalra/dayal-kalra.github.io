@@ -45,7 +45,7 @@ Research experience
   * Automated detection of solar radio bursts
   * Detection of HI emission from Sagittarius A galaxy
 
-* Long-term project project: IISER Pune, Fall 2016 - Present
+* Long-term project: IISER Pune, Fall 2016 - Present
   * Supervisor: Dr. MS Madhusudhan
   * Large scale motif prediction in protein sequences
   * Functional prediction of uncharacterized protein sequences
