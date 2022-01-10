@@ -5,16 +5,7 @@ type: "research"
 permalink: /research/phy_meet_ml
 ---
 
-Infinite width limit of Deep Neural Networks
+Statistical physics of Deep Neural Networks
 =====
-Despite their successful application in various fields of science and technology, deep neural net-
-works remain poorly understood. In the past few years, a significant progress has been made in understanding by studying properties of infinitely wide networks. 
 
-Information propagation through deep neural networks
-======
-
-The Neural Tangent Kernel (the lazy regime)
-======
-
-Generalization in overly parameterized deep neural networks
-======
+In the past few years, there has been some progress in understanding Deep Neural Networks (DNNs) through ideas from statistical physics. These studies have shed light on various theoretical questions about DNNs. This includes, their function space and generalization properties. For my master's thesis, I have worked on the information propagation in Deep ReLU networks with correlated weights. In particular, we show that ReLU networks with anti-correlated weights have an order-to-chaos criticality, unlike the uncorrelated weight case. Furthermore, we propose intializing ReLU networks at this criticality, and demonstrate that ReLU networks with anti-correlated intialization train faster.
