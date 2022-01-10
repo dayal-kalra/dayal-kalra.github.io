@@ -13,11 +13,11 @@ Education
 ======
 * Ph.D student at IPST, University of Maryland, College Park, 2021-present
 * BS-MS with Physics major, Indian Institute of Science Education & Research, Pune, 2016-2021
+  * Thesis topic: Signal propagation and Initialization in Deep Neural Networks ([link](https://drive.google.com/file/d/1yManJLiFjpYrqdR-KL6lgCI_pdkkSi0Y/view?usp=sharing))
 
 Research experience
 ======
-* Summer project: Summer 2022
-  * Your group?
+
 * Group Rotation II: UMD, Spring 2022
   * Your group?
 * Group Rotation I: UMD, Fall 2021
