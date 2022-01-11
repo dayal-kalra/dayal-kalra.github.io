@@ -18,8 +18,8 @@ Education
 Research experience
 ======
 
-* Group Rotation II: UMD, Spring 2022
-  * Your group?
+* Research Assistant: UMD, Spring 2022
+  * Supervisor: Professor Michelle Girvan
 * Group Rotation I: UMD, Fall 2021
   * Supervisor: Professor Michelle Girvan
   * Predicting the dynamics of multi-scale systems with reservoir computing
