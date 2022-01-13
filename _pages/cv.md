@@ -12,9 +12,8 @@ redirect_from:
 Education
 ======
 * Ph.D student at IPST, University of Maryland, College Park, 2021-present
-  * Current CGPA: 4.0/4.0
 * BS-MS with Physics major, Indian Institute of Science Education & Research, Pune, 2016-2021
-  * Thesis topic: Signal propagation and Initialization in Deep Neural Networks ([link](https://drive.google.com/file/d/1yManJLiFjpYrqdR-KL6lgCI_pdkkSi0Y/view?usp=sharing))
+  * Thesis: Signal propagation and Initialization in Deep Neural Networks ([link](https://drive.google.com/file/d/1yManJLiFjpYrqdR-KL6lgCI_pdkkSi0Y/view?usp=sharing))
 
 Research experience
 ======
