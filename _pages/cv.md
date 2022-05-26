@@ -18,6 +18,18 @@ Education
 Research experience
 ======
 
+* Graduate Research Assistant: UMD, Summer 2022
+  * Supervisor: Professor Maissam Barkeshli
+  * Scaling laws of robustness in Deep Learning
+
+* Graduate Research Assistant: UMD, Spring 2022
+  * Supervisor: Professor Michelle Girvan
+  * Information bottleneck for dynamical systems
+
+* Group Rotation II: UMD, Spring 2022
+  * Supervisor: Professor Victor Albert
+  * Foundations of Deep Learning (reading project)
+
 * Group Rotation I: UMD, Fall 2021
   * Supervisor: Professor Michelle Girvan
   * Predicting the dynamics of multi-scale systems with reservoir computing
@@ -47,6 +59,11 @@ Research experience
   * Supervisor: Dr. MS Madhusudhan
   * Large scale motif prediction in protein sequences
   * Functional prediction of uncharacterized protein sequences
+
+Summer schools attended
+======
+* IAIFI Summer School: IAIFI, Tufts University, Aug. 2022
+* Princeton Machine Learning Summer School: Princeton, Jun. 2022
   
 Conferences attended
 ======
