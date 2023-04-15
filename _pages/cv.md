@@ -18,9 +18,9 @@ Education
 Research experience
 ======
 
-* Graduate Research Assistant: UMD, Summer 2022
+* Graduate Research Assistant: UMD, Summer 2022- Present
   * Supervisor: Professor Maissam Barkeshli
-  * Scaling laws of robustness in Deep Learning
+  * Deep learning theory
 
 * Graduate Research Assistant: UMD, Spring 2022
   * Supervisor: Professor Michelle Girvan
@@ -110,8 +110,8 @@ Talks
   
 Teaching
 ======
-* Teaching Assitant: Fall 2021
-  * CHEM 132: General Chemistry lab
-  * TA for two sections
+* Teaching Assitant: Spring 2023
+  * PHYS 786: Machine learning for physicists
+  * Contributed to creating programming assignments
   
 
