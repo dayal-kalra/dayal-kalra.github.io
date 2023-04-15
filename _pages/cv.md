@@ -62,6 +62,8 @@ Research experience
 
 Summer schools attended
 ======
+* IAIFI Summer School: IAIFI, Tufts University, Aug. 2023
+* Princeton Machine Learning Summer School: Princeton, Jun. 2023
 * IAIFI Summer School: IAIFI, Tufts University, Aug. 2022
 * Princeton Machine Learning Summer School: Princeton, Jun. 2022
   
